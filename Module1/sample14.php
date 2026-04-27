@@ -30,3 +30,11 @@ if (is_null($value)) {
     echo "Value is null.";
 }
 ?>
+
+<?php
+//Check if Boolean
+$flag = true;
+if (is_bool($flag)) {
+    echo "Flag is a boolean.";
+}
+?>
