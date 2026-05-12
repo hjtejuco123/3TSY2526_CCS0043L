@@ -1,0 +1,20 @@
+sort($array)
+Sorts by value; resets numeric keys
+
+rsort($array)
+Sorts by value in reverse; resets numeric keys
+
+asort($array)
+Sorts by value; maintains key association
+
+arsort($array)
+Sorts by value in reverse; maintains key association
+
+ksort($array)
+Sorts by key
+
+krsort($array)
+Sorts by key in reverse order
+
+usort($array, $function)
+Sorts using a user-defined comparison function

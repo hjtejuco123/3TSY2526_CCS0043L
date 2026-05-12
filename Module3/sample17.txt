@@ -1,0 +1,6 @@
+Variable Scope
+
+Understanding where variables are accessible:
+    Global variables: Declared outside functions, accessible everywhere
+    Local variables: Declared inside functions, accessible only within that function
+    Static variables: Retain value between function calls

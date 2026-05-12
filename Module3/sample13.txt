@@ -1,0 +1,18 @@
+Introduction to PHP Functions
+
+Functions are blocks of code that perform specific tasks and can be reused throughout your program. PHP has two types:
+
+    Predefined functions: Built into PHP (like strlen(), array_push())
+    User-defined functions: Created by developers to solve specific problems
+
+Functions help with:
+    Code organization
+    Reusability
+    Reducing code duplication
+    Making complex programs more manageable
+
+
+function functionName($param1, $param2, ...) {
+    // Code to execute
+     return $result; // Optional return statement
+}
