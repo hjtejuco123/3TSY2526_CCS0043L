@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f6f5;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 40px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.form-container {
+    width: 450px;
+    margin: 40px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #0b5d3b;
+}
+
+.btn,
+button {
+    background: #0b5d3b;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-secondary {
+    background: #777;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.search-box {
+    margin: 20px 0;
+}
+
+.search-box input {
+    width: 250px;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th {
+    background: #0b5d3b;
+    color: white;
+    padding: 10px;
+}
+
+table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.student-img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.preview-img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.edit {
+    background: #2980b9;
+    color: white;
+    padding: 7px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.delete {
+    background: #c0392b;
+    color: white;
+    padding: 7px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
